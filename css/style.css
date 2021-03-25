@@ -57,3 +57,7 @@ hr {
   position: relative;
   padding-top: 100px;
 }
+.mtn {
+  position: relative;
+  margin: 50px auto 0 auto;
+}
